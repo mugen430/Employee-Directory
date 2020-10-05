@@ -1,0 +1,9 @@
+body {
+    width: 100%;
+    padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+html {
+    background-color: rgba(184, 220, 230, 0.247);
+}
