@@ -1,3 +1,5 @@
+  <img src="attachments/screenshot.png" alt="Employee Directory">
+  
   # GitHub Username
   ## Mugen430
   
